@@ -1,3 +1,4 @@
+"use client";
 import Inputs from "@/components/Inputs";
 import UserDetails from "@/components/UserDetails";
 
